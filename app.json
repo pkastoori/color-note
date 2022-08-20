@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "color-note",
+    "name": "Color Note",
     "slug": "color-note",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FFF4F4"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -24,7 +24,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.pkastoori.colornote",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
